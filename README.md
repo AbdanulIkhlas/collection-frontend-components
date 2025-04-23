@@ -15,8 +15,9 @@ Komponen ini digunakan untuk memberikan efek transisi yang halus saat sebuah ele
 
 ---
 
-🔗 **Contoh tampilan**: [Klik di sini](https://contoh-tampilan.com/animasi-transisi)  
-💻 **Source code**: [Lihat di sini](https://github.com/username/repo/blob/main/components/AnimateOnScroll.jsx)
+🔗 **Contoh tampilan**: [Klik di sini](https://co2labs-clone-snowy.vercel.app/)
+
+💻 **Source code**: [Lihat di sini](https://github.com/AbdanulIkhlas/collection-frontend-components/blob/main/animasi%20transisi/AnimatedOnScroll.js)
 
 ### 🧩 Contoh Penggunaan
 
@@ -42,14 +43,14 @@ function Home() {
 
 ---
 
-### 2. Navbar Dinamis
+### 2. Navbar Dinamis (Mobile sidebar)
 
 <details>
   <summary><strong>Penjelasan Lengkap</strong></summary>
 Komponen navbar yang responsif dengan tampilan mobile dalam bentuk sidebar. jika di scroll navbar nya sticky on top dan ada shadow transition.
 
-🔗 **Contoh tampilan**: [Klik di sini](https://contoh-tampilan.com/navbar-dinamis)  
-💻 **Source code**: [Lihat di sini](https://github.com/username/repo/blob/main/components/NavbarDinamis.jsx)
+🔗 **Contoh tampilan**: [Klik di sini](https://co2labs-clone-snowy.vercel.app/)
+💻 **Source code**: [Lihat di sini](https://github.com/AbdanulIkhlas/collection-frontend-components/blob/main/navbar/Navbar.js)
 
 ### 🧩 Contoh Penggunaan
 
