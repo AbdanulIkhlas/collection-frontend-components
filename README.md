@@ -1,2 +1,1 @@
-# collection-frontend-components
-Kumpulan Komponen Forntend Reusable by Klaz
+# Kumpulan Komponen Forntend Reusable by Klaz
